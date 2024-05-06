@@ -8,7 +8,7 @@
 
 📫 How to reach me Telegram : @UmarDeveloper
 
-📫 Email : umar.upone@gmail.com
+📫 Email : umar.throv@gmail.com
 
 <!---
 toiroff/toiroff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
