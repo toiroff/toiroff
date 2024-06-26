@@ -1,12 +1,10 @@
 👋 Hi, I’m @toiroff  
 
-👀 I’m Muhammadtoirov Muhammadumar
+👀 I’m Umar
 
-🌱 I’m middle Back-end
+🌱 I’m fan of backend development
 
-💞️ I’m looking to collaborate on meta
-
-📫 How to reach me Telegram : @UmarDeveloper
+📫 How to reach me Telegram : @Umar_Toirov
 
 📫 Email : umar.throv@gmail.com
 
