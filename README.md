@@ -1,8 +1,8 @@
-👋 Hi, I’m @toiroff  
+👋 Hi, I’m Muhammadumar 
 
-👀 I’m Umar
+👀 I’m Backend developer
 
-🌱 I’m fan of backend development
+🌱 I’m fan of building beneficial projects
 
 📫 How to reach me Telegram : @Umar_Toirov
 
