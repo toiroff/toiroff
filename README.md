@@ -2,7 +2,7 @@
 
 ## Backend Developer 
 
-### Skills: Python / Django / RestAPI / JWT / CSS/HTML
+Skills: Python / Django / RestAPI / JWT / CSS/HTML
 
 - 🔧 Currently working on: [Educated](https://educateduz.com/)
 - 📖 Reading: Grokking Algorithms
