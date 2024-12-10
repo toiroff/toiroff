@@ -12,7 +12,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toiroff&layout=compact)
 
 
-<div align="center">
+<div>
   <a href="https://github.com/toiroff" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
