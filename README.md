@@ -1,13 +1,16 @@
 # Hi 👋, I am Muhammadumar
 
-## Backend Developer 
+## Software Developer 
 
-Skills: Python / Django / RestAPI / JWT / CSS/HTML
+### Tech Stack
+- **Backend:** Python, Django, Django REST Framework
+- **Auth & Security:** JWT (Access & Refresh Tokens)
+- **Frontend (Basic):** HTML, CSS
+- **Tools:** Git, GitHub
 
-- 🔧 Currently working on: [Educated](https://educateduz.com/)
-- 📖 Reading: Grokking Algorithms
-- 📫 How to reach me: [umar.throv@gmail.com](mailto:umar.throv@gmail.com)
 
+#### 🔧 **Currently building:** [ILM HUB](https://ilmhub.lovable.app) - an educational project focused on discipline & community 
+#### 📫 **How to reach me:** [umar.throv@gmail.com](mailto:umar.throv@gmail.com)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toiroff&layout=compact)
 
